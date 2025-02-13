@@ -1,0 +1,12 @@
+# Python and OS
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store
+
+# Environment / secrets
+.env
+*.env
+
+# If you have a 'textbot' folder with ephemeral or temp data
+textbot/
