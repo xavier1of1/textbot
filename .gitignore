@@ -1,0 +1,16 @@
+# .gitignore
+
+# Typical Python ignores
+__pycache__/
+*.py[cod]
+.env
+.venv/
+.DS_Store
+
+# Docker related
+*.log
+docker-compose.override.yml
+
+# If you have a folder named 'private_keys' or 'secrets'
+private_keys/
+secrets/
